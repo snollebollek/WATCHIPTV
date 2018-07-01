@@ -1,187 +1,299 @@
 #EXTM3U
-#EXTINF:-1,BE: La une
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/296.ts
-#EXTINF:-1,BE: La trois
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/298.ts
-#EXTINF:-1,BE: La deux
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/297.ts
-#EXTINF:-1,BE: 2BE
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1412.ts
-#EXTINF:-1,BE: AB3 HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1416.ts
-#EXTINF:-1,BE: ACHT HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1405.ts
-#EXTINF:-1,BE: CANVAS HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1404.ts
-#EXTINF:-1,BE: CINEMA 1
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1403.ts
-#EXTINF:-1,BE: CINEMA 2
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1402.ts
-#EXTINF:-1,BE: EEN HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1408.ts
-#EXTINF:-1,BE: ketnet
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1411.ts
-#EXTINF:-1,BE: PLUG RTL HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1413.ts
-#EXTINF:-1,BE: RTL PLUG HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1401.ts
-#EXTINF:-1,BE: RTL TVI HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1415.ts
-#EXTINF:-1,BE: VIER HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1407.ts
-#EXTINF:-1,BE: VIJF HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1406.ts
-#EXTINF:-1,BE: VITAYA
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1410.ts
-#EXTINF:-1,BE: VTM HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1409.ts
-#EXTINF:-1,BE: CLUB RTL HD
-http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1414.ts
-
-#EXTINF:-1,BE: Bruxelles
-http://178.33.230.107:8000/live/suisse/suisse/7749.ts
-#EXTINF:-1,BE: BXL1
-http://178.33.230.107:8000/live/suisse/suisse/7748.ts
-#EXTINF:-1,BE: Canvas HD
-http://178.33.230.107:8000/live/suisse/suisse/7753.ts
-#EXTINF:-1,BE: CAZ
-http://178.33.230.107:8000/live/suisse/suisse/7746.ts
-#EXTINF:-1,BE: CINE
-http://178.33.230.107:8000/live/suisse/suisse/7745.ts
-#EXTINF:-1,BE: CINEMA 1 FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7744.ts
-#EXTINF:-1,BE: CINEMA 2 FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7743.ts
-#EXTINF:-1,BE: CLUB RTL FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7754.ts
-#EXTINF:-1,BE: een HD
-http://178.33.230.107:8000/live/suisse/suisse/7755.ts
-#EXTINF:-1,BE: ELEVEN SPORT
-http://178.33.230.107:8000/live/suisse/suisse/7730.ts
-#EXTINF:-1,BE: KADET
-http://178.33.230.107:8000/live/suisse/suisse/7742.ts
-#EXTINF:-1,BE: KETNET KIDS
-http://178.33.230.107:8000/live/suisse/suisse/7741.ts
-#EXTINF:-1,BE: KetOp12
-http://178.33.230.107:8000/live/suisse/suisse/7756.ts
-#EXTINF:-1,BE: LA DEUX FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7757.ts
-#EXTINF:-1,BE: LA TROIS FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7758.ts
-#EXTINF:-1,BE: PLUG RTL FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7760.ts
-#EXTINF:-1,BE: Q2 HD
-http://178.33.230.107:8000/live/suisse/suisse/7768.ts
-#EXTINF:-1,BE: RTC HD
-http://178.33.230.107:8000/live/suisse/suisse/7747.ts
-#EXTINF:-1,BE: RTL LUXENBURG
-http://178.33.230.107:8000/live/suisse/suisse/7740.ts
-#EXTINF:-1,BE: RTL TVI FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7761.ts
-#EXTINF:-1,BE: TV LIMBURG
-http://178.33.230.107:8000/live/suisse/suisse/7739.ts
-#EXTINF:-1,BE: TVO
-http://178.33.230.107:8000/live/suisse/suisse/7762.ts
-#EXTINF:-1,BE: UNE HD FR-BE
-http://178.33.230.107:8000/live/suisse/suisse/7759.ts
-#EXTINF:-1,BE: VIER HD
-http://178.33.230.107:8000/live/suisse/suisse/7763.ts
-#EXTINF:-1,BE: VIJF
-http://178.33.230.107:8000/live/suisse/suisse/7764.ts
-#EXTINF:-1,BE: Vitaya
-http://178.33.230.107:8000/live/suisse/suisse/7765.ts
-#EXTINF:-1,BE: VOO SPORT 1
-http://178.33.230.107:8000/live/suisse/suisse/7736.ts
-#EXTINF:-1,BE: Voo Sport 2
-http://178.33.230.107:8000/live/suisse/suisse/7735.ts
-#EXTINF:-1,BE: Voo Sport 4 HD
-http://178.33.230.107:8000/live/suisse/suisse/7733.ts
-#EXTINF:-1,BE: Voo Sport World 1
-http://178.33.230.107:8000/live/suisse/suisse/7732.ts
-#EXTINF:-1,BE: Voo Sport World 2
-http://178.33.230.107:8000/live/suisse/suisse/7731.ts
-#EXTINF:-1,BE: Voo Sport World 3
-http://178.33.230.107:8000/live/suisse/suisse/7734.ts
-#EXTINF:-1,BE: VTM HD
-http://178.33.230.107:8000/live/suisse/suisse/7766.ts
-#EXTINF:-1,BE: VTM NIEUWS
-http://178.33.230.107:8000/live/suisse/suisse/7738.ts
-#EXTINF:-1,BE: VTMKazoom/Kanaal Z
-http://178.33.230.107:8000/live/suisse/suisse/7767.ts
-#EXTINF:-1,BE: ATV Antwerpen
-http://178.33.230.107:8000/live/suisse/suisse/7752.ts
-#EXTINF:-1,BE: BEL RTL
-http://178.33.230.107:8000/live/suisse/suisse/7751.ts
-#EXTINF:-1,BE: BFM
-http://178.33.230.107:8000/live/suisse/suisse/7750.ts
-
-#EXTINF:-1,BE: BFM
-http://178.33.230.107:8000/live/gareth/gareth/7750.ts
-#EXTINF:-1,BE: Bruxelles
-http://178.33.230.107:8000/live/gareth/gareth/7749.ts
-#EXTINF:-1,BE: BXL1
-http://178.33.230.107:8000/live/gareth/gareth/7748.ts
-#EXTINF:-1,BE: Canvas HD
-http://178.33.230.107:8000/live/gareth/gareth/7753.ts
-#EXTINF:-1,BE: CAZ
-http://178.33.230.107:8000/live/gareth/gareth/7746.ts
-#EXTINF:-1,BE: CINE
-http://178.33.230.107:8000/live/gareth/gareth/7745.ts
-#EXTINF:-1,BE: CINEMA 1 FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7744.ts
-#EXTINF:-1,BE: CINEMA 2 FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7743.ts
-#EXTINF:-1,BE: CLUB RTL FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7754.ts
-#EXTINF:-1,BE: een HD
-http://178.33.230.107:8000/live/gareth/gareth/7755.ts
-#EXTINF:-1,BE: ELEVEN SPORT
-http://178.33.230.107:8000/live/gareth/gareth/7730.ts
-#EXTINF:-1,BE: KADET
-http://178.33.230.107:8000/live/gareth/gareth/7742.ts
-#EXTINF:-1,BE: KETNET KIDS
-http://178.33.230.107:8000/live/gareth/gareth/7741.ts
-#EXTINF:-1,BE: KetOp12
-http://178.33.230.107:8000/live/gareth/gareth/7756.ts
-#EXTINF:-1,BE: LA DEUX FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7757.ts
-#EXTINF:-1,BE: LA TROIS FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7758.ts
-#EXTINF:-1,BE: PLUG RTL FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7760.ts
-#EXTINF:-1,BE: Q2 HD
-http://178.33.230.107:8000/live/gareth/gareth/7768.ts
-#EXTINF:-1,BE: RTC HD
-http://178.33.230.107:8000/live/gareth/gareth/7747.ts
-#EXTINF:-1,BE: RTL LUXENBURG
-http://178.33.230.107:8000/live/gareth/gareth/7740.ts
-#EXTINF:-1,BE: RTL TVI FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7761.ts
-#EXTINF:-1,BE: TV LIMBURG
-http://178.33.230.107:8000/live/gareth/gareth/7739.ts
-#EXTINF:-1,BE: TVO
-http://178.33.230.107:8000/live/gareth/gareth/7762.ts
-#EXTINF:-1,BE: UNE HD FR-BE
-http://178.33.230.107:8000/live/gareth/gareth/7759.ts
-#EXTINF:-1,BE: VIER HD
-http://178.33.230.107:8000/live/gareth/gareth/7763.ts
-#EXTINF:-1,BE: VIJF
-http://178.33.230.107:8000/live/gareth/gareth/7764.ts
-#EXTINF:-1,BE: Vitaya
-http://178.33.230.107:8000/live/gareth/gareth/7765.ts
-#EXTINF:-1,BE: VOO SPORT 1
-http://178.33.230.107:8000/live/gareth/gareth/7736.ts
-#EXTINF:-1,BE: Voo Sport 2
-http://178.33.230.107:8000/live/gareth/gareth/7735.ts
-#EXTINF:-1,BE: Voo Sport 4 HD
-http://178.33.230.107:8000/live/gareth/gareth/7733.ts
-#EXTINF:-1,BE: Voo Sport World 1
-http://178.33.230.107:8000/live/gareth/gareth/7732.ts
-#EXTINF:-1,BE: Voo Sport World 2
-http://178.33.230.107:8000/live/gareth/gareth/7731.ts
-#EXTINF:-1,BE: Voo Sport World 3
-http://178.33.230.107:8000/live/gareth/gareth/7734.ts
-#EXTINF:-1,BE: VTM HD
-http://178.33.230.107:8000/live/gareth/gareth/7766.ts
-#EXTINF:-1,BE: VTM NIEUWS
-http://178.33.230.107:8000/live/gareth/gareth/7738.ts
+#EXTINF:0,BE: 2BE Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5083.ts
+#EXTINF:0,BE: Acht Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5085.ts
+#EXTINF:0,BE: Een Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5097.ts
+#EXTINF:0,BE: La Deux Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5093.ts
+#EXTINF:0,BE: Plug RTL Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5095.ts
+#EXTINF:0,BE: RTL TVI Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5096.ts
+#EXTINF:0,BE: La Une Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5092.ts
+#EXTINF:0,BE: VIJF Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5099.ts
+#EXTINF:0,BE: La Trois Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5094.ts
+#EXTINF:0,BE: Canvas Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5089.ts
+#EXTINF:0,BE: Vitaya Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5100.ts
+#EXTINF:0,BE: Vier Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5098.ts
+#EXTINF:0,BE: VTM Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5101.ts
+#EXTINF:0,BE: Club RTL Belgium
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5090.ts
+#EXTINF:0,BE: Cinema 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5086.ts
+#EXTINF:0,BE: Cinema 2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5087.ts
+#EXTINF:0,BE: PLUG RTL
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3723.ts
+#EXTINF:0,BE: RTL TVI
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3722.ts
+#EXTINF:0,BE: Voo Sport 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7709.ts
+#EXTINF:0,BE: EEN HD 1080P
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7780.ts
+#EXTINF:0,BE: Q2 HD 1080P
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7779.ts
+#EXTINF:0,BE: VIER HD 1080P
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7778.ts
+#EXTINF:0,BE: VITAYA HD 1080P
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7777.ts
+#EXTINF:0,BE: VTM HD 1080P
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7776.ts
+#EXTINF:0,BE: VOO SPORT 1 HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/9188.ts
+#EXTINF:0,BE: VOOsport 2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/9187.ts
+#EXTINF:0,BE: VOOsport 4
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/9186.ts
+#EXTINF:0,BE: VOO SPORT WORLD 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17206.ts
+#EXTINF:0,BE: VOO SPORT WORLD 2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17212.ts
+#EXTINF:0,BE: Ketop12
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17490.ts
+#EXTINF:0,=======>   Netherlands   <=======
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7491.ts
+#EXTINF:0,NL: Ziggo Sport Select FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5452.ts
+#EXTINF:0,NL: Veronica / Disney XD FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5453.ts
+#EXTINF:0,NL: Sport 1 Voetbal
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/150.ts
+#EXTINF:0,NL: SBS 9
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3899.ts
+#EXTINF:0,NL: RTL 8 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5455.ts
+#EXTINF:0,NL: RTL 7 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5454.ts
+#EXTINF:0,NL: RTL 5 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5451.ts
+#EXTINF:0,NL: RTL 4 FHD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5450.ts
+#EXTINF:0,NL: NPO 3 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5449.ts
+#EXTINF:0,NL: NPO 2 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5448.ts
+#EXTINF:0,NL: NPO 1 HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5447.ts
+#EXTINF:0,NL: Fox Sports 6
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/152.ts
+#EXTINF:0,NL: Fox Sports 5
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/153.ts
+#EXTINF:0,NL: Fox Sports 4
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/154.ts
+#EXTINF:0,NL: Fox Sports 3
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/155.ts
+#EXTINF:0,NL: Fox Sports 2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/156.ts
+#EXTINF:0,NL: Fox Sports 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/157.ts
+#EXTINF:0,NL: Eurosport 1 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5654.ts
+#EXTINF:0,NL: Eurosport 2 HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5655.ts
+#EXTINF:0,NL: Film1 Premiere FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5647.ts
+#EXTINF:0,NL: FOX Sports 1 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5644.ts
+#EXTINF:0,NL: FOX Sports 2 HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5645.ts
+#EXTINF:0,NL: Nat Geo Wild FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5653.ts
+#EXTINF:0,NL: National Geographic FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5652.ts
+#EXTINF:0,NL: Net 5 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5649.ts
+#EXTINF:0,NL: SBS6 FHD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/5648.ts
+#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7475.ts
+#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7476.ts
+#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/7474.ts
+#EXTINF:0,NL: RTL Z
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/8378.ts
+#EXTINF:0,NL: AT5
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/8672.ts
+#EXTINF:0,NL: AT5 HD 1080
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/8671.ts
+#EXTINF:0,NL: NPO Politiek
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/8952.ts
+#EXTINF:0,NL: NPO Zapp Xtra
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/8951.ts
+#EXTINF:0,NL: Cartoon Network
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16145.ts
+#EXTINF:0,NL: Disney Junior
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16146.ts
+#EXTINF:0,NL: Eurosport 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16147.ts
+#EXTINF:0,NL: Nat Geo Wild HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16148.ts
+#EXTINF:0,NL: Travel Channel HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16149.ts
+#EXTINF:0,NL: Film 1 Drama
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16392.ts
+#EXTINF:0,NL: Film 1 Family
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16393.ts
+#EXTINF:0,NL: Nicktoons
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16520.ts
+#EXTINF:0,NL: 24 Kitchen
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16998.ts
+#EXTINF:0,NL: E! Entertainment
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/16999.ts
+#EXTINF:0,NL: Baby TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17191.ts
+#EXTINF:0,NL: Discovery Science
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17634.ts
+#EXTINF:0,NL: Discovery Showcase HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17632.ts
+#EXTINF:0,NL: Discovery World
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17633.ts
+#EXTINF:0,NL: Food Network
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17636.ts
+#EXTINF:0,NL: Horse & Country TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17635.ts
+#EXTINF:0,NL: Motors TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17631.ts
+#EXTINF:0,NL: Nick Hits
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17629.ts
+#EXTINF:0,NL: RTL Crime
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17495.ts
+#EXTINF:0,NL: RTL Telekids
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17630.ts
+#EXTINF:0,NL: RTV 7
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17639.ts
+#EXTINF:0,NL: Spike HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17638.ts
+#EXTINF:0,NL: ViceLand HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17637.ts
+#EXTINF:0,NL: Ziggo TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17628.ts
+#EXTINF:0,NL: AT 5
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17743.ts
+#EXTINF:0,NL: Omroep Brabant
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17739.ts
+#EXTINF:0,NL: Omroep Flevoland
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17738.ts
+#EXTINF:0,NL: Omroep Fryslan
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17737.ts
+#EXTINF:0,NL: Omroep Gelderland
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17736.ts
+#EXTINF:0,NL: Omroep Zeeland
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17740.ts
+#EXTINF:0,NL: RTV Utrecht
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17741.ts
+#EXTINF:0,NL: TV Oost
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17742.ts
+#EXTINF:0,NL: 192 TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17764.ts
+#EXTINF:0,NL: Djazz TV
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17762.ts
+#EXTINF:0,NL: Extreme Sports
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17766.ts
+#EXTINF:0,NL: Ketnet HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17768.ts
+#EXTINF:0,NL: MTV HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17763.ts
+#EXTINF:0,NL: MTV Music 24
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17765.ts
+#EXTINF:0,NL: RTV DRENTHE
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17757.ts
+#EXTINF:0,NL: RTV Noord
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17758.ts
+#EXTINF:0,NL: Slam
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17760.ts
+#EXTINF:0,NL: TV Oranje
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17761.ts
+#EXTINF:0,NL: TV538
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17767.ts
+#EXTINF:0,NL: XITE HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/17759.ts
+#EXTINF:0,NL : Ziggo Sport.Voetbal
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3891.ts
+#EXTINF:0,NL : Ziggo Sport Select HD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3892.ts
+#EXTINF:0,NL: Ziggo Sport Racing
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3890.ts
+#EXTINF:0,NL : Ziggo Sport Golf
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3893.ts
+#EXTINF:0,NL : Ziggo Sport Extra2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3894.ts
+#EXTINF:0,NL: Ziggo Sport Extra1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3895.ts
+#EXTINF:0,NL : Veronica Disney XD
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3896.ts
+#EXTINF:0,NL: TLC
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3897.ts
+#EXTINF:0,NL : SYFY
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3898.ts
+#EXTINF:0,NL: SBS 6
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3900.ts
+#EXTINF:0,NL: RTL lounge
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3901.ts
+#EXTINF:0,NL : RTL 8
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3902.ts
+#EXTINF:0,NL : RTL 7
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3903.ts
+#EXTINF:0,NL : RTL 5
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3904.ts
+#EXTINF:0,NL: RTL 4
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3905.ts
+#EXTINF:0,NL: NPO 3
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3907.ts
+#EXTINF:0,NL : NPO 2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3908.ts
+#EXTINF:0,NL : NPO 1
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3909.ts
+#EXTINF:0,NL : Nickelodeon
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3911.ts
+#EXTINF:0,NL : Nick Jr
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3910.ts
+#EXTINF:0,NL : National Geographic
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3912.ts
+#EXTINF:0,NL: NET 5
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3913.ts
+#EXTINF:0,NL: JimJam
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3914.ts
+#EXTINF:0,NL: Investigation Discovery
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3915.ts
+#EXTINF:0,NL : History
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3916.ts
+#EXTINF:0,NL: HBO2
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3918.ts
+#EXTINF:0,NL : HBO 3
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3917.ts
+#EXTINF:0,NL : HBO
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3919.ts
+#EXTINF:0,NL : FOX Channel
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3920.ts
+#EXTINF:0,NL: Film1 SUNDANCE
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3921.ts
+#EXTINF:0,NL : Film1 Spotlight
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3922.ts
+#EXTINF:0,NL: Film1 Premiere
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3923.ts
+#EXTINF:0,NL : Film1 Comedy & Kids
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3924.ts
+#EXTINF:0,NL : Film1 Action
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3925.ts
+#EXTINF:0,NL : Disney Channel
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3926.ts
+#EXTINF:0,NL : Discovery Channel
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3927.ts
+#EXTINF:0,NL : Comedy Central
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3928.ts
+#EXTINF:0,NL : Boomerang
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3929.ts
+#EXTINF:0,NL: Animal Planet
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3930.ts
+#EXTINF:0,NL: 13th
+http://premium-iptv.link:6969/live/JarneDhoge1737/WSgiF9AeWQ/3931.ts
